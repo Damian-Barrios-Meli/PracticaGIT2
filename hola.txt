@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hola Carlos!
 
 ¿Como estás?
+=======
+Hola Carlos! Hola Damian!
+>>>>>>> 47395c5fe595049f2e8a10f5dada015f18946715
